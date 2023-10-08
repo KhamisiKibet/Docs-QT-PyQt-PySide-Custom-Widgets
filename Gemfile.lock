@@ -76,9 +76,6 @@ GEM
     unicode-display_width (1.7.0)
     wdm (0.1.1)
 
-PLATFORMS
-  x64-mingw32
-
 DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
