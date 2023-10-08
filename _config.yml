@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PySide2extn/PyQt5extn Documentation
+title: QT-PyQt-PySide-Custom-Widgets Documentation
 logo: "/pages/assets/logo.png"
-email: anjalp12345@gmail.com
+email: spinncompany@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Documentation for Python Package PySide2extn/PyQt5extn, written and maintained by Anjal.P 
+  Documentation for QT-PyQt-PySide-Custom-Widgets by khamisi Kibet
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  https://github.com/anjalp
+github_username:  https://github.com/KhamisiKibet
 
 # Build settings
 theme: just-the-docs
@@ -34,14 +34,14 @@ plugins:
   - jekyll-feed
 
 aux_links:
-  "PySide2extn/PyQt5extn in Github":
-    - "https://github.com/anjalp/PySide2extn"
+  "QT-PyQt-PySide-Custom-Widgets in Github":
+    - "https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets"
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2020 Anjal.P, Distributed by an <a href=\"https://github.com/anjalp/PySide2extn/blob/master/LICENSE\">MIT license.</a>"
+footer_content: "Copyright &copy; 2023"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
