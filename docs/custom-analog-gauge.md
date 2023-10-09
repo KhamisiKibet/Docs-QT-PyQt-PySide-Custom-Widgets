@@ -14,11 +14,11 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom Analog Gauge](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-pyqt-pyside-analog-gauge.png?raw=true)
+![Custom Analog Gauge](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-pyqt-pyside-analog-gauge.png?raw=true)
 
 # PyQt/PySide Analog Gauge Meter
 
-![Custom Analog Gauge](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/analog_qt_widget.png?raw=true)
+![Custom Analog Gauge](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/analog_qt_widget.png?raw=true)
 
 ## Video Tutorial
 
@@ -27,7 +27,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ## Download
 
-[Download](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
+[Download](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
 
 
 ## Creating Widget
@@ -35,12 +35,12 @@ Create a widget with a custom promote class inside QT Designer as shown below:
 
 - Add `Qidget` to the UI
 
-![Ading QT Designer Widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/25.png?raw=true)
+![Ading QT Designer Widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/25.png?raw=true)
 
 - Right click on the widget, select promote. 
 - Inside the Promoted Widgets container, enter "AnalogGaugeWidget" as the class name and "Custom_Widgets.AnalogGaugeWidget.h" as the header file name the click on "add".
 
-![Adding QT Designer Promote Widget class](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/27.png?raw=true)
+![Adding QT Designer Promote Widget class](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/27.png?raw=true)
 
 After designing your user interface file (UI), convert it to a python code.
 

@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom Analog Gauge](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-app-theme.png?raw=true)
+![Custom Analog Gauge](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-app-theme.png?raw=true)
 
 ### PyQt, PySide
 ## Theme Engine

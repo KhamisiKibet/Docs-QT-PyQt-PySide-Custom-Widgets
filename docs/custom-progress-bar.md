@@ -14,13 +14,13 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom Qt Progress Bar](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/progressbar.png?raw=true)
+![Custom Qt Progress Bar](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/progressbar.png?raw=true)
 
 # Custom Progress Bar / Form Progress Indicator
 
 ## Download
 
-[Download](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
+[Download](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
 
 
 ## Adding Custom Progress Bar / Form Progress Indicator To The User Interface
@@ -30,16 +30,16 @@ Using QT Designer:
 ### Step 1:
 - Open QT Designer app, create the "Main Window".
 
-![Qt Designer Create Main Window](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/6.png?raw=true)
+![Qt Designer Create Main Window](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/6.png?raw=true)
 
 ### Step 2:
 - Add "QWidget" container to your "centralwidget" or a container of your choice.
 
-![Qt Designer Create Main Window](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/7.png?raw=true)
+![Qt Designer Create Main Window](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/7.png?raw=true)
 
 - Set the width and height of your widget, alternatively you can set the layout of the container, in this case it is the "centralwidget" 
 
-![Qt Designer Create Main Window](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/8.png?raw=true)
+![Qt Designer Create Main Window](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/8.png?raw=true)
 
 ### Step 3:
 - Right click on the "widget" the click "promote to". The promote window will appear.
@@ -50,7 +50,7 @@ Using QT Designer:
 - Check the "Global Include" check mark,
 - Now select the promoted class you just added then click on "Promote" button,
 
-![Qt Designer Create Main Window](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/11.png?raw=true)
+![Qt Designer Create Main Window](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/11.png?raw=true)
 
 - Save the UI file then generate the interface python code. 
 
@@ -60,7 +60,7 @@ Using QT Designer:
 
 If you run "main.py", you will get something like this:
 
-![Qt Custom Progress Bar Default Look](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/12.png?raw=true)
+![Qt Custom Progress Bar Default Look](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/12.png?raw=true)
 
 
 You can also add the custom progress bar to the user interface without using QT Designer app:

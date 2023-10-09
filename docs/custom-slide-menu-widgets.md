@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom Qt Progress Bar](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/responsive-qt-gui-python-intarface.png?raw=true)
+![Custom Qt Progress Bar](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/responsive-qt-gui-python-intarface.png?raw=true)
 
 # Custom Responsive PyQt/PySide Interface With Animated Transition
 
@@ -22,12 +22,12 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 - Add the `QWidget` to your UI
 
-![Qt Designer add widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/20.png?raw=true)
+![Qt Designer add widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/20.png?raw=true)
 
 - Promote the widget class
 -Right-click on your widget, then click on "promote to". 
 
-![Qt Designer add widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/21.png?raw=true)
+![Qt Designer add widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/21.png?raw=true)
 
 - Enter the promote class and header file
 
@@ -39,12 +39,12 @@ pip install QT-PyQt-PySide-Custom-Widgets
 	- click on "add"
 	- now click on "Promote"
 
-![Qt Designer add widget class](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/22.png?raw=true)
+![Qt Designer add widget class](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/22.png?raw=true)
 
 
 - Under object inspector your widget should look like this:
 
-![Qt Designer add widget inspector](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/23.png?raw=true)
+![Qt Designer add widget inspector](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/23.png?raw=true)
 
 - Now save the UI(User interface) and generate the UI python code
 
@@ -56,7 +56,7 @@ Inside the root of your project folder, create the "style.json" file which will 
 
 This is how my project folder looks like:
 
-![Python project folder](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/24.png?raw=true)
+![Python project folder](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/24.png?raw=true)
 
 Inside the "style.json" file create "QCustomSlideMenu" main object:
 
@@ -296,10 +296,10 @@ Select the widget floating position(relative to the new parent-"relativeTo": "ce
 - center-left
 - center-right
 
-![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_1.png?raw=true)
-![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_2.png?raw=true)
-![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_3.png?raw=true)
-![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_4.png?raw=true)
+![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_1.png?raw=true)
+![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_2.png?raw=true)
+![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_3.png?raw=true)
+![Floating pyqt pyside menu widget](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/floating_qt_widget_4.png?raw=true)
 
 ```json
 {
@@ -560,7 +560,7 @@ my_widget.expandMenu()
 
 Watch video tutorials [here](https://www.youtube.com/channel/UCJVsWdUC3M8p-q67RXPujkg)
 
-Download the source code [here](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) 
+Download the source code [here](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/tree/main/examples) 
 
 
 
