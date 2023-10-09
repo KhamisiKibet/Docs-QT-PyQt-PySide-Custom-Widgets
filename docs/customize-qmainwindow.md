@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Custom QMainWindow
-parent: widgets
+parent: Available Widgets
 nav_order: 4
 permalink: /docs/widgets/custom-qmainwindow
 ---

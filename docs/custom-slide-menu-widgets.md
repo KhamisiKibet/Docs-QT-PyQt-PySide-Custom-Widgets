@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Custom Slide Menu Widgets
-parent: widgets
+parent: Available Widgets
 nav_order: 3
 permalink: /docs/widgets/custom-slide-menu-widgets
 ---

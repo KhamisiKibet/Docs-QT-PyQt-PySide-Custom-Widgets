@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Custom QSlider
-parent: widgets
-nav_order: 1
+parent: Available Widgets
+nav_order: 8
 permalink: /docs/widgets/custom-qslider
 ---
 

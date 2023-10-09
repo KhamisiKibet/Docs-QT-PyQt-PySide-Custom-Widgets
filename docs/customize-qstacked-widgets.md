@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Custom QStacked Widgets
-parent: widgets
+parent: Available Widgets
 nav_order: 6
 permalink: /docs/widgets/custom-qstacked-widgets
 ---

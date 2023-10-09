@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Custom QPushButton
-parent: widgets
+parent: Available Widgets
 nav_order: 5
 permalink: /docs/widgets/custom-qpushbutton
 ---

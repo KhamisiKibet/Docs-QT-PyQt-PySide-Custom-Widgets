@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Custom Progress Bar
-parent: widgets
-nav_order: 1
+parent: Available Widgets
+nav_order: 2
 permalink: /docs/widgets/custom-progress-bar
 ---
 
