@@ -906,15 +906,3 @@ This is a Json style example. Replace the button names with your own button name
 
 - [Animate QPushButton  Install Font Libraries  Using ICONIFY Library  Pyqt  PySide  Modern GUI](https://youtu.be/y9qQXn836K0)
 
-
-# Navigation
-- [HOME](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/) 
-
-- [Customize and Animate QStacked Widgets](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qstacked-widgets.html) 
-
-- [Custom Animated Progress Indicator / Progress Bar](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/custom-progress-bar.html) 
-
-- [Customize QMainWindow](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qmainwindow.html)   
- 
-- [Customize slide menu widgets](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/custom-slide-menu-widgets.html)
-

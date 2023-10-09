@@ -562,16 +562,6 @@ Watch video tutorials [here](https://www.youtube.com/channel/UCJVsWdUC3M8p-q67RX
 
 Download the source code [here](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) 
 
-# Navigation
-
-- [HOME](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/) 
-- [Customize and Animate QPushButton](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qpushbutton.html) 
-
-- [Custom Animated Progress Indicator / Progress Bar](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/custom-progress-bar.html)  
-
-- [Customize QMainWindow](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qmainwindow.html) 
-
-- [Customize and Animate QStacked Widgets](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qstacked-widgets.html)
 
 
 

@@ -357,14 +357,5 @@ Below is the full JSon sample stylesheet. Also watch the video tutorial for the 
 
 
 
-# READ MORE
-## Navigation
-[HOME](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/)  
-[Customize and Animate QStacked Widgets](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qstacked-widgets.html)  
-[Customize and Animate QPushButton](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qpushbutton.html) 
-[Customize QMainWindow](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/customize-qmainwindow.html)  
-[Customize slide menu widgets](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/docs/custom-slide-menu-widgets.html)
-
-
 
 
