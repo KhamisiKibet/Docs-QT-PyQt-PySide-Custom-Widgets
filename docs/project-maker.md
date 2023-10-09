@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom Analog Gauge](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-pyqt-pyside-project-maker.png?raw=true)
+![Custom Analog Gauge](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-pyqt-pyside-project-maker.png?raw=true)
 
 ### PyQt, PySide
 ## Project Builder/Project Setup Wizard
@@ -27,11 +27,11 @@ This wizard will:
 - Create the main file
 - Create the json stylesheet file. JSon stylesheet file will be used the create the app settings and pass other values to the custom widgets module such as the app name.
 
-![Custom Analog Gauge](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-pyqt-pyside-project-maker_1.png?raw=true)
+![Custom Analog Gauge](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-pyqt-pyside-project-maker_1.png?raw=true)
 
 ## Getting Started
 
-- Install the custom widgets module (Read more about the custom widgets module [here](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets)
+- Install the custom widgets module (Read more about the custom widgets module [here](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets)
 
 ```cmd
 

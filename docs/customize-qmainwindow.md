@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom Qt Progress Bar](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/19.png?raw=true)
+![Custom Qt Progress Bar](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/19.png?raw=true)
 
 # Customize Your QMainWindow
 
@@ -23,7 +23,7 @@ This is done through "style.json" file.
 
 ## Download
 
-[Download](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
+[Download](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
 
 # Steps to add a custom windows title bar to your QMainWindow
 
@@ -39,7 +39,7 @@ You can also add a QFrame to the bottom right corner of your app window which wi
 
 I designed the simple window below:
 
-![Custom Title Bar QT DESIGNER](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/16.png?raw=true)
+![Custom Title Bar QT DESIGNER](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/16.png?raw=true)
 
 
 ## Step 2:
@@ -69,7 +69,7 @@ from Custom_Widgets import *
 
 If you run "main.py", you will get the window with the default title bar:
 
-![Default Title Bar QT DESIGNER](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/17.png?raw=true)
+![Default Title Bar QT DESIGNER](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/17.png?raw=true)
 
 
 ## Step 3:
@@ -366,7 +366,7 @@ if __name__ == "__main__":
 ```
 This is the final results:
 
-![Custom Title Bar QT DESIGNER](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/18.png?raw=true)
+![Custom Title Bar QT DESIGNER](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/18.png?raw=true)
 
 Watch this video for the full tutorial:
 [Video](https://youtu.be/li7esLMuFhE)

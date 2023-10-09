@@ -14,13 +14,13 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom QPushButtons](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qpushbutton.png?raw=true)
+![Custom QPushButtons](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/qpushbutton.png?raw=true)
 
 # Customizing QPushButtons
 
 ## Download
 
-[Download](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
+[Download](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
 
 The following steps will show you how to customize the look and animation of your `QPushButtons`. 
 
@@ -34,7 +34,7 @@ The following steps will show you how to customize the look and animation of you
 
 - Then click on "promote".
 
-![QT Designer App](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/1.png?raw=true)
+![QT Designer App](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/1.png?raw=true)
 
 - Generate your UI python code.
 
@@ -121,7 +121,7 @@ QT-PyQt-PySide-Custom-Widgets uses iconify library to apply and animate button i
 
 The following video will help you understand more about Iconify and how to get Icon Names from Iconify browser. Click on the image below to start watch.
 
-[![Iconify Video](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/3.png?raw=true)](https://youtu.be/y9qQXn836K0)
+[![Iconify Video](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/3.png?raw=true)](https://youtu.be/y9qQXn836K0)
 
 [Watch the video](https://youtu.be/y9qQXn836K0)
 
