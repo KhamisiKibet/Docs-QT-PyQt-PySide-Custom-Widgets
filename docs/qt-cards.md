@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![QT Cards](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-cards-on-dashboard.png?raw=true)
+![QT Cards](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-cards-on-dashboard.png?raw=true)
 
 # QT Cards Widget
 
@@ -26,7 +26,7 @@ QCard is simply a group of widdgets that you can apply a uniform drop shadow eff
 
 [Download](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/tree/main/examples) an example.
 
-![QT Cards](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20230923_074144.png?raw=true)
+![QT Cards](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20230923_074144.png?raw=true)
 
 ## Creating QCards
 After designing your GUI, inside the root of your project folder, create the "style.json" file which will contain all the values that will customize your GUI.
