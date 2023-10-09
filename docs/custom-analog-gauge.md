@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Custom Analog Gauge
-parent: widgets
+parent: Available Widgets
 nav_order: 1
 permalink: /docs/widgets/custom-analog-gauge
 ---
