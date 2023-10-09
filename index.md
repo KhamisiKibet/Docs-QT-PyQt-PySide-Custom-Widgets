@@ -26,7 +26,7 @@ pip install --upgrade QT-PyQt-PySide-Custom-Widgets
 The examples folder in this repository contains a few code examples you can use to test and learn about the custom widgets.
 
 Progress indicator example:
-![Custom Progress bar](https://github.com/KhamisiKibetdocs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot.png?raw=true)
+![Custom Progress bar](https://github.com/KhamisiKibet/docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot.png?raw=true)
 
 # What is new?
 ## Version 0.6.2:
