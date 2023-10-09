@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom QStacked Widgets
+parent: widgets
+nav_order: 6
+permalink: /docs/widgets/custom-qstacked-widgets
+---
+
 # QT-PyQt-PySide-Custom-Widgets - Customizing QStacked Widgets
 
 ## Install the custom widgets

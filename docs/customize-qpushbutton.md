@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom QPushButton
+parent: widgets
+nav_order: 5
+permalink: /docs/widgets/custom-qpushbutton
+---
+
 # QT-PyQt-PySide-Custom-Widgets - Customizing QPushButtons
 
 ## Install the custom widgets

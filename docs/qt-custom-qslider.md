@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom QSlider
+parent: widgets
+nav_order: 1
+permalink: /docs/widgets/custom-qslider
+---
+
 # QT-PyQt-PySide-Custom-Widgets 
 
 ## Install the custom widgets

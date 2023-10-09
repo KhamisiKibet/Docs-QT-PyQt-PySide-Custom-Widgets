@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom QMainWindow
+parent: widgets
+nav_order: 4
+permalink: /docs/widgets/custom-qmainwindow
+---
+
 # QT-PyQt-PySide-Custom-Widgets - Custom QMainWindow
 
 ## Install the custom widgets

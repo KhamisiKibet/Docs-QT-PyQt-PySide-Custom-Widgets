@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom QCheckbox
+parent: widgets
+nav_order: 7
+permalink: /docs/widgets/custom-qcheckbox
+---
+
 # QT-PyQt-PySide-Custom-Widgets 
 
 ## Install the custom widgets

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom Slide Menu Widgets
+parent: widgets
+nav_order: 3
+permalink: /docs/widgets/custom-slide-menu-widgets
+---
+
 # QT-PyQt-PySide-Custom-Widgets - Custom Progress Bar / Form Progress Indicator
 
 ## Install the custom widgets

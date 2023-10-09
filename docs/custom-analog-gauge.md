@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom Analog Gauge
+parent: widgets
+nav_order: 1
+permalink: /docs/widgets/custom-analog-gauge
+---
+
 # QT-PyQt-PySide-Custom-Widgets - Analog Gauge
 
 ## Install the custom widgets

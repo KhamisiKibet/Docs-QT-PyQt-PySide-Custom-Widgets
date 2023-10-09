@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Home
+title: Available Widgets
 nav_order: 2
-description: "Documentation for Python Package Qt Custom Widgets."
+description: "A list of the available Qt Custom Widgets."
 permalink: /docs/widgets
+has_children: true
 ---

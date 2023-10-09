@@ -1,3 +1,11 @@
+---
+layout: default
+title: Custom Progress Bar
+parent: widgets
+nav_order: 1
+permalink: /docs/widgets/custom-progress-bar
+---
+
 # QT-PyQt-PySide-Custom-Widgets - Custom Progress Bar / Form Progress Indicator
 
 ## Install the custom widgets
