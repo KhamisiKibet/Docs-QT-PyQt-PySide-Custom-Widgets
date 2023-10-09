@@ -1,3 +1,11 @@
+---
+layout: default
+title: Qt Theme Engine
+parent: Other Functions
+nav_order: 4
+permalink: /docs/other-functions/qt-theme-engine
+---
+
 # QT-PyQt-PySide-Custom-Widgets 
 
 ## Install the custom widgets

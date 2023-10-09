@@ -1,3 +1,11 @@
+---
+layout: default
+title: Qt Project Maker
+parent: Other Functions
+nav_order: 1
+permalink: /docs/other-functions/project-maker
+---
+
 # QT-PyQt-PySide-Custom-Widgets 
 
 ## Install the custom widgets

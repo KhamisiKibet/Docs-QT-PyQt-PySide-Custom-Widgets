@@ -1,3 +1,11 @@
+---
+layout: default
+title: Qt Cards
+parent: Other Functions
+nav_order: 3
+permalink: /docs/other-functions/qt-cards
+---
+
 # QT-PyQt-PySide-Custom-Widgets - QT Cards(QCards)
 
 ## Install the custom widgets

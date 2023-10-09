@@ -1,3 +1,11 @@
+---
+layout: default
+title: QPushButton Groups
+parent: Other Functions
+nav_order: 2
+permalink: /docs/other-functions/qpushbutton-group
+---
+
 # QT-PyQt-PySide-Custom-Widgets - QPushButtonGroup(QT Grouped Buttons)
 
 ## Install the custom widgets
