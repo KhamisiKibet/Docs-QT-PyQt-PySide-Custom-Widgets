@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Qt Custom slider](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Qt-Custom-slider.png?raw=true)
+![Qt Custom slider](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Qt-Custom-slider.png?raw=true)
 
 ## Qt Custom QSlider
 
@@ -30,7 +30,7 @@ Steps:
 
 - Then click on `promote`.
 
-![QT Designer App](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20230924_030911.png?raw=true)
+![QT Designer App](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20230924_030911.png?raw=true)
 
 - Generate your UI python code.
 - DONE!

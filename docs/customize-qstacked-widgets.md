@@ -14,7 +14,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![Custom QStacked Widgets](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qstacked.png?raw=true)
+![Custom QStacked Widgets](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qstacked.png?raw=true)
 
 # Customizing QStacked Widgets
 
@@ -25,7 +25,7 @@ You can create a QStacked Widgets directly from your python file or use the QT D
 
 ### Create user interface containing QStacked Widgets.
 
-![Custom QStacked Widgets QT Designer](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/4.png?raw=true)
+![Custom QStacked Widgets QT Designer](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/4.png?raw=true)
 
 - Add the promote class to the QStacked Widget
 > Right click on the QStacked then select ``promote to..`` then enter the ``class`` and ``header file`` name as shown below:
@@ -36,7 +36,7 @@ You can create a QStacked Widgets directly from your python file or use the QT D
 > - "Promoted class name": `QCustomQStackedWidget`
 > - "Header file": `Custom_Widgets.QCustomQStackedWidget.h`
 
-![Screenshot_20220722_080958.png](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20220722_080958.png?raw=true)
+![Screenshot_20220722_080958.png](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20220722_080958.png?raw=true)
 
 - Click ``add``, then click ``promote``
 

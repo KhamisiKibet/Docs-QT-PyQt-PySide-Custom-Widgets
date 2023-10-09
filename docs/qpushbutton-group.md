@@ -14,13 +14,13 @@ pip install QT-PyQt-PySide-Custom-Widgets
 
 ```
 
-![QT Grouped Buttons](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-nav-buttons.png?raw=true)
+![QT Grouped Buttons](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/qt-nav-buttons.png?raw=true)
 
 # QT Grouped Navigation Buttons
 
 With QT-PyQt-PySide-Custom-Widgets, you can group navigation bittons together. The aim of this functionality is to apply a new style the clicked QPushButton in a group(Active button), an apply a different style to the rest of the QPushButtons in a group(Inactive button)
 
-![QT Grouped Buttons](https://github.com/KhamisiKibet/Doc-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20230923_064515.png?raw=true)
+![QT Grouped Buttons](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Screenshot_20230923_064515.png?raw=true)
 
 ## Grouping the buttons
 After designing your GUI, inside the root of your project folder, create the "style.json" file which will contain all the values that will customize your GUI.
