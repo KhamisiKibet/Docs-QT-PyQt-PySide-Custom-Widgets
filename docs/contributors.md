@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contributors to the Custom Widgets
-nav_order: 2
+nav_order: 3
 description: "A list of awsome people who have contributed to the Custom Widgets."
 permalink: /docs/contributors
 has_children: false
