@@ -160,11 +160,11 @@ myStackedWidget.setTransitionDirection(QtCore.Qt.Vertical)
 The recommended way to customize your QStacked widgets using QT-PyQt-PySide-Custom-Widgets library is through a JSon file. 
 
 Inside your project folder, create a file and name it "style.json". 
-Inside this file, create a "QStackedWidget" object which will contain all QStackedWidget names and their custom values.
+Inside this file, create a "QCustomQStackedWidget" object which will contain all QStackedWidget names and their custom values.
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget"
 		},
@@ -184,7 +184,7 @@ Add next("nxt") and previous("prev") button names, which when clicked the QStack
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"navigation":[
@@ -202,7 +202,7 @@ In this example when "page1" button is clicked, "page" page will be shown, when 
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"navigation":[
@@ -224,7 +224,7 @@ Full navigation exaple will look like this:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"navigation":[
@@ -250,7 +250,7 @@ Add fade animation:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -271,7 +271,7 @@ Set fade animation duration:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -292,7 +292,7 @@ Set fade animation easing curve:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -313,7 +313,7 @@ Full fade animaion customization code will look like this:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -336,7 +336,7 @@ Add Slide animation:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -357,7 +357,7 @@ Set Slide animation duration:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -378,7 +378,7 @@ Set Slide animation easing curve:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -401,7 +401,7 @@ Horizontal direction:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -422,7 +422,7 @@ OR vertical direction:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -443,7 +443,7 @@ Full slide animaion customization code will look like this:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[
@@ -467,7 +467,7 @@ Full slide animaion customization code will look like this:
 
 ```json
 {
-	"QStackedWidget":[
+	"QCustomQStackedWidget":[
 		{
 			"name":"myStackedWidget",
 			"transitionAnimation":[

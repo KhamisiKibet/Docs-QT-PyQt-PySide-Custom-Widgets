@@ -423,7 +423,7 @@ Once you have created your project, you can customize your progressbar from a js
 
 ```json
 {
-   "FormProgressIndicator": [
+   "QCustomProgressIndicator": [
         {
             "name": "myProgressBar",
             "color": "THEME.COLOR_TEXT_1",
@@ -452,7 +452,7 @@ Once you have created your project, you can customize your progressbar from a js
 Json style for multiple progressbar might look like this:
 ```json
 {
-   "FormProgressIndicator": [
+   "QCustomProgressIndicator": [
         {
             "name": "myProgressBar",
             "color": "THEME.COLOR_TEXT_1",
