@@ -40,9 +40,22 @@ pip install QT-PyQt-PySide-Custom-Widgets
 ```
 - Create an empty project folder
 - Open the command line inside this folder(Make sure the folder is empty)
+
+For custom widgets version 0.6.9 +
+
+- From your command line/Terminal, type
+```cmd
+Custom_Widgets --create-project
+```
+
+For custom widgets version < 0.6.9 
+
 - From your command line/Terminal, type ``python`` press enter
 - Now type ``from Custom_Widgets import ProjectMaker`` press enter
 - Now the wizard will take you through the required steps to build your project
+
+Then:
+
 - Once youre done, enter ``Y`` or ``yes`` to run the built project
 - To exit the wizard, enter ``N`` or ``no``
 
