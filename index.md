@@ -32,6 +32,12 @@ Progress indicator example:
 
 # What is new?
 ## Version 0.6.9:
+New project structure.
+
+Quick theme engine.
+
+New custom widgets `logs`
+
 Quick `CMD/Terminal` commands:
 - To launch `ProjectMaker / project wizard`, run
 ```cmd
