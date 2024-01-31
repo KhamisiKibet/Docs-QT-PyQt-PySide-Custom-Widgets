@@ -11,10 +11,11 @@ permalink: /docs/other-functions/Updating-old-GUI-app-to-work-with-the current-C
 ![Screenshot_20240130_105009.png](https://www.dropbox.com/scl/fi/v71slvbih1fo8nwjj1bug/Screenshot_20240130_105009.png?rlkey=0t1x2nzelmvysturs16x7iz7k&dl=0&raw=1)
 
 ## _INTRO_
-Join me for a special livestream: https://www.youtube.com/live/6_oFAUCqqzQ?si=XpHcvk9kEMPmzLwR
+Join me for a special [livestream.](https://www.youtube.com/live/6_oFAUCqqzQ?si=XpHcvk9kEMPmzLwR)
+
 In this livestream I am going to show you how you can easily convert your old PySide or PyQt desktop apps to work with the custom widgets module without any errors
 
-We are going to update this old GUI tutorial from this video: https://youtu.be/adC48qZ8p5Y
+We are going to update this old GUI tutorial from this[video.] (https://youtu.be/adC48qZ8p5Y)
 
 ## Steps
 **Follow the steps listed below if you have been using ``Custom Widgets Module`` version ``0.6.8 or earlier versions.``**
@@ -45,7 +46,8 @@ These are the steps were going to follow:
     
         > The custom widgets will generate new icons inside the `Qss` folder. New `ui` and other files will also be generated.
     
-- When copying your files, please follow the folder structure described here: https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets?tab=readme-ov-file#version-069
+- When copying your files, please follow the folder structure described [here:](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets?tab=readme-ov-file#version-069)
+
     - Do not put anything inside the ``generated-files`` folder. This should only contain files created at run time.
     - Put all your ``JSon stylesheets`` for the custom widgets inside the ``json-styles`` folder.
     - ``logs`` folder is for log files.
