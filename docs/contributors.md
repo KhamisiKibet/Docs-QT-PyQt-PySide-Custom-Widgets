@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Other Functions
+title: Contributors
 nav_order: 3
 description: "Contributors In The Custom Widgets."
 permalink: /docs/other-functions
