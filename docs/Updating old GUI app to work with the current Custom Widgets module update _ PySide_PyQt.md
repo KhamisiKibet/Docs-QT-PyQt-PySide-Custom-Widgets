@@ -1,3 +1,11 @@
+---
+layout: default
+title: Updating old GUI app to work with the current Custom Widgets module update
+parent: Other Functions
+nav_order: 5
+permalink: /docs/other-functions/Updating-old-GUI-app-to-work-with-the current-Custom-Widgets-module-update
+---
+
 # Python: Updating old GUI app to work with the current Custom Widgets module update | PySide/PyQt
 
 ![Screenshot_20240130_105009.png](https://www.dropbox.com/scl/fi/v71slvbih1fo8nwjj1bug/Screenshot_20240130_105009.png?rlkey=0t1x2nzelmvysturs16x7iz7k&dl=0&raw=1)
