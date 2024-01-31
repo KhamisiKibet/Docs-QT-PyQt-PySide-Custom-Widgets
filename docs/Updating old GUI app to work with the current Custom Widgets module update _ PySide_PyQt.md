@@ -3,19 +3,22 @@
 ![Screenshot_20240130_105009.png](https://www.dropbox.com/scl/fi/v71slvbih1fo8nwjj1bug/Screenshot_20240130_105009.png?rlkey=0t1x2nzelmvysturs16x7iz7k&dl=0&raw=1)
 
 ## _INTRO_
-Join me for a special livestream: https://youtube.com/live/G6Af65xRihE?feature=share
+Join me for a special livestream: https://www.youtube.com/live/6_oFAUCqqzQ?si=XpHcvk9kEMPmzLwR
 In this livestream I am going to show you how you can easily convert your old PySide or PyQt desktop apps to work with the custom widgets module without any errors
 
 We are going to update this old GUI tutorial from this video: https://youtu.be/adC48qZ8p5Y
 
 ## Steps
+**Follow the steps listed below if you have been using ``Custom Widgets Module`` version ``0.6.8 or earlier versions.``**
+![Screenshot_20240131_175513.png](https://www.dropbox.com/scl/fi/nolgmx4i210y9eluhwzo4/Screenshot_20240131_175513.png?rlkey=qtsu56gkmd9pnv3gjbs7nq8r7&dl=0&raw=1)
+
 These are the steps were going to follow:
 
 - Install the latest Custom Widgets module
     ```cmd
     pip install --upgrade QT-PyQt-PySide-Custom-Widgets
     ```
-- Our GUI also uses an old version of ``PySideExtn`` that does not support ``PySide6`` so we will install the new updated version I made
+- Our GUI also uses an old version of ``PySideExtn`` that does not support ``PySide6`` so we will install the new updated version I made(Skip this part if you dont need PySideExtn)
     ```cmd
     pip install PySideExtn
     ```
@@ -55,12 +58,15 @@ These are the steps were going to follow:
     
     Replace 'ui-path' with you ui path or folder, fo this case the ui folder is 'ui'.
     Repace 'your-lib' with your qt lib, or remove argument(--qt-library your-lib) if youre using ``PySide6``
-    
+
+- Remember to update the ``promoted`` classes inside the UI files. Also, do not forget to update your ``import`` statements inside your python files.
+
 - RUN your project.
     > Be patient, new missing icon files will be generated. View your terminal for `app theme` progress activities.
 
 **That's all. HAPPY CODING**
 
+You found this helpful? [Support this project ](https://www.patreon.com/spinntv)
 ## License
 
 MIT
