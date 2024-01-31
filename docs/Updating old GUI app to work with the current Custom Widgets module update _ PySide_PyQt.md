@@ -1,4 +1,7 @@
 # Python: Updating old GUI app to work with the current Custom Widgets module update | PySide/PyQt
+
+![Screenshot_20240130_105009.png](https://www.dropbox.com/scl/fi/v71slvbih1fo8nwjj1bug/Screenshot_20240130_105009.png?rlkey=0t1x2nzelmvysturs16x7iz7k&dl=0&raw=1)
+
 ## _INTRO_
 Join me for a special livestream: https://youtube.com/live/G6Af65xRihE?feature=share
 In this livestream I am going to show you how you can easily convert your old PySide or PyQt desktop apps to work with the custom widgets module without any errors
