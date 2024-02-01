@@ -8,7 +8,7 @@ permalink: /docs/other-functions/Updating-old-GUI-app-to-work-with-the current-C
 
 # Python: Updating old GUI app to work with the current Custom Widgets module update | PySide/PyQt
 
-![Screenshot_20240130_105009.png](https://www.dropbox.com/scl/fi/v71slvbih1fo8nwjj1bug/Screenshot_20240130_105009.png?rlkey=0t1x2nzelmvysturs16x7iz7k&dl=0&raw=1)
+![Responsive pyside pyqt GUI.png](https://www.dropbox.com/scl/fi/v71slvbih1fo8nwjj1bug/Screenshot_20240130_105009.png?rlkey=0t1x2nzelmvysturs16x7iz7k&dl=0&raw=1)
 
 ## _INTRO_
 Join me for a special [livestream.](https://www.youtube.com/live/6_oFAUCqqzQ?si=XpHcvk9kEMPmzLwR)
@@ -19,7 +19,7 @@ We are going to update this old GUI tutorial from this [video.](https://youtu.be
 
 ## Steps
 **Follow the steps listed below if you have been using ``Custom Widgets Module`` version ``0.6.8 or earlier versions.``**
-![Screenshot_20240131_175513.png](https://www.dropbox.com/scl/fi/nolgmx4i210y9eluhwzo4/Screenshot_20240131_175513.png?rlkey=qtsu56gkmd9pnv3gjbs7nq8r7&dl=0&raw=1)
+![Custom widgets folders](https://www.dropbox.com/scl/fi/nolgmx4i210y9eluhwzo4/Screenshot_20240131_175513.png?rlkey=qtsu56gkmd9pnv3gjbs7nq8r7&dl=0&raw=1)
 
 These are the steps were going to follow:
 
