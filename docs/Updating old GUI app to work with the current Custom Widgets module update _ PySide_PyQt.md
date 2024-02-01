@@ -15,7 +15,7 @@ Join me for a special [livestream.](https://www.youtube.com/live/6_oFAUCqqzQ?si=
 
 In this livestream I am going to show you how you can easily convert your old PySide or PyQt desktop apps to work with the custom widgets module without any errors
 
-We are going to update this old GUI tutorial from this[video.] (https://youtu.be/adC48qZ8p5Y)
+We are going to update this old GUI tutorial from this [video.](https://youtu.be/adC48qZ8p5Y)
 
 ## Steps
 **Follow the steps listed below if you have been using ``Custom Widgets Module`` version ``0.6.8 or earlier versions.``**
