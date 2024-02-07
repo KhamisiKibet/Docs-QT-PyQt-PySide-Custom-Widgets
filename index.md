@@ -34,7 +34,7 @@ Progress indicator example:
 
 ## Version 0.7.3:
 ### Qss stylesheet 'hot reload':
-All changes made to your ``qss\scss\defaultStyle.scss`` style sheet file will be recompiled and automatically be applied to your app GUI, **no need to restart the app when styling your GUI**
+All changes made to your ``qss\scss\defaultStyle.scss`` style sheet file will be recompiled and automatically applied to your app GUI, **no need to restart the app when styling your GUI**
 
 - You can apply this feature from your JSon style by adding ``LiveCompileQss: true,``:
 
