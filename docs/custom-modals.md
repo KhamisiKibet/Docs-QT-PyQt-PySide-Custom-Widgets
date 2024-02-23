@@ -32,6 +32,7 @@ myModal = QCustomModals.InformationModal(
     parent=self.main,
     position='top-right',
     closeIcon=self.main.theme.PATH_RESOURCES+"window_close.png",
+     modalIcon=self.main.theme.PATH_RESOURCES+"custom_icon.png" 
     description="Refreshing dashboard information",
     isClosable=False,
     duration=3000
@@ -70,6 +71,20 @@ InformationModal {
 }
 
 ```
+
+## Setting Modal Icon
+You can set a custom icon for the modal by using `CSS` as shown above or by passing the `modalIcon` parameter while creating the modal dialog. For example:
+
+```python
+myModal = QCustomModals.InformationModal(
+    # other parameters
+    modalIcon= "custom_icon.png"  # Path to the custom modal icon image
+)
+myModal.show()
+```
+
+If the `modalIcon` parameter is provided, the modal will display the specified icon. Otherwise, it will default to the icon specified in the `CSS/SCSS` file.
+
 
 ## Positioning
 Modals can be positioned at different locations on the screen by specifying the position parameter. Available positions include:
