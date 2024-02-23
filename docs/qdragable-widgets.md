@@ -16,7 +16,7 @@ If you find these custom widgets helpful and would like to support their develop
 Your support helps us maintain and improve these custom widgets for the community.
 
 ## QDraggableWidget
-The QDraggableWidget module provides custom draggable widget functionality for PyQt applications. It includes two main classes: QDragItem and QDragWidget.
+The `QT-PyQt-PySide-Custom-Widgets - QDraggableWidget` module provides custom draggable widget functionality for `PyQt/PySide` applications. It includes two main classes: `QDragItem` and `QDragWidget`.
 
 Installation
 You can install the QT-PyQt-PySide-Custom-Widgets package via pip:
@@ -26,7 +26,7 @@ pip install QT-PyQt-PySide-Custom-Widgets
 ```
 ### Usage
 Creating Widgets
-To create QDragItem and QDragWidget widgets directly from your Python script, follow these steps:
+To create QDragItem and `QDragWidget` widgets directly from your Python script, follow these steps:
 
 1. Import the required classes:
 ```python
@@ -34,7 +34,7 @@ from Custom_Widgets.QDraggableWidget import QDragItem, QDragWidget
 ```
 
 2. Add Drag-and-Drop Functionality:
-Inside your Python script, import the QDragItem class from the QDraggableWidget module. You can then create instances of QDragItem and add them to the promoted QDragWidget in your application.
+Inside your Python script, import the `QDragItem` class from the `QDraggableWidget` module. You can then create instances of `QDragItem` and add them to the promoted `QDragWidget` in your application.
 
 #### Example Usage:
 ```python
