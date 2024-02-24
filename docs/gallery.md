@@ -24,7 +24,9 @@ The following pictures shows some of the app interfaces using the Custom Widgets
     <tr>
 </table>
 
+
 ![Responsive pyside pyqt GUI](https://github.com/KhamisiKibet/docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/responsive-qt-gui-python-intarface.png?raw=true)
+
 
 <table>
     <tr>
@@ -36,7 +38,9 @@ The following pictures shows some of the app interfaces using the Custom Widgets
         </td>
 </table>
 
+
 ![Responsive pyside pyqt GUI](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/blob/main/images/Capture.PNG?raw=true)
+
 
 <table>
     <tr>
