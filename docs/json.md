@@ -3,7 +3,7 @@ layout: default
 title: JSON Stylesheet Cheatsheet
 nav_order: 7
 description: "An update on new features being added to the Custom Widgets Module."
-permalink: /docs/new-features
+permalink: /docs/json-stylesheet-cheatsheet
 has_children: true
 ---
 
