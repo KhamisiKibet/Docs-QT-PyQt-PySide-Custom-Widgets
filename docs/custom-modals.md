@@ -8,6 +8,8 @@ permalink: /docs/widgets/custom-modals
 
 # QT-PyQt-PySide-Custom-Widgets - Customizing QCustomModals
 
+![Screenshot_20240223_213723.png](https://www.dropbox.com/scl/fi/2q34mj8hdg6xymu6ctoyb/Screenshot_20240223_213723.png?rlkey=5bu7vo89jyohloui5rlqld5da&dl=0&raw=1)
+
 ## QCustomModals
 `QCustomModals` is a module that provides custom modal dialogs for PySide/PyQt applications. It includes various types of modal dialogs such as Information, Success, Warning, Error, and Custom modals. These modals are designed to be highly customizable and can be positioned according to the user's preference.
 
@@ -17,7 +19,8 @@ Install the QT-PyQt-PySide-Custom-Widgets package using pip:
 ```cmd
 pip install QT-PyQt-PySide-Custom-Widgets
 ```
-
+### Examples and tutorial:
+[Examples](https://youtube.com/live/UPH_csh8NTA)
 ## Usage
 Importing the Module
 
