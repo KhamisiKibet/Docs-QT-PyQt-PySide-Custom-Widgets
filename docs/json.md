@@ -53,7 +53,7 @@ QAppSettings.updateAppSettings(self)
 ## Format:
 The JSON stylesheet consists of the following section:
 
-1. `ShowLogs`:
+### `ShowLogs`:
 
 ```json
 {
@@ -70,7 +70,7 @@ or
 
 ```
 
-2. `LiveCompileQss`:
+### `LiveCompileQss`:
 
 Specifies whether live compilation of QSS and JSON stylesheet files should be enabled or disabled.
 
@@ -91,7 +91,7 @@ or
 }
 ```
 
-3. `CheckForMissingicons`:
+### `CheckForMissingicons`:
 
 Specifies whether to generate missing icons, including Qt Designer icons.
 
@@ -111,7 +111,7 @@ or
 }
 ```
 
-4. `ThemeSettings`:
+### `ThemeSettings`:
 
 Specifies custom themes and their settings.
 
@@ -146,7 +146,7 @@ Example:
 }
 ```
 
-5. `QCard`:
+### `QCard`:
 
 Specifies settings for QCard widgets and their cards, including shadow effects.
 
@@ -173,7 +173,7 @@ Example:
 }
 ```
 
-6. `QPushButtonGroup`:
+### `QPushButtonGroup`:
 
 Specifies settings for QPushButtonGroup objects, including buttons and their styles.
 
@@ -202,7 +202,7 @@ Example:
 }
 ```
 
-7. `AnalogGaugeWidget`:
+### `AnalogGaugeWidget`:
 
 Specifies settings for Analog Gauge Widget objects, including various properties such as min/max values, gauge theme, colors, fonts, etc.
 
@@ -281,7 +281,7 @@ Example:
   ]
 }
 ```
-8. `QCustomSlideMenu`:
+### `QCustomSlideMenu`:
 
 Specifies settings for QCustomSlideMenu widgets.
 
@@ -366,7 +366,7 @@ Example:
 }
 ```
 
-9. `QMainWindow`:
+### `QMainWindow`:
 
 Specifies settings for QMainWindow objects, including window title, icon, frameless mode, transparent background, size grip, shadow effect, and window navigation options.
 
@@ -410,7 +410,7 @@ Example:
 }
 ```
 
-10. `QPushButton`:
+### `QPushButton`:
 
 Specifies settings for QPushButton objects.
 
@@ -465,7 +465,7 @@ Example:
 }
 ```
 
-11. `QCustomQStackedWidget`:
+### `QCustomQStackedWidget`:
 
 Specifies settings for a custom QStackedWidget, including transition animations and navigation buttons.
 
@@ -512,7 +512,7 @@ Example:
 }
 ```
 
-12. `QCustomProgressIndicator`:
+### `QCustomProgressIndicator`:
 
 Specifies settings for QCustomProgressIndicator widgets, including colors, sizes, and animation parameters.
 
@@ -539,8 +539,7 @@ Example:
   ]
 }
 ```
-
-13. `QCustomCheckBox`:
+### `QCustomCheckBox`:
 
 Specifies settings for QCustomCheckBox widgets, including background color, circle color, active color, animation easing curve, and animation duration.
 
@@ -568,3 +567,22 @@ Example:
   ]
 }
 ```
+
+# Credits
+
+## Support 💖
+
+Thanks to all supporters on [YouTube](https://youtube.com/spinntv), [Patreon](https://www.patreon.com/spinntv) and other platforms.
+
+If you find this project valuable and would like to contribute to its development and maintenance, you can support us on [Patreon](https://www.patreon.com/spinntv). Your sponsorship means a lot and is greatly appreciated!💖
+
+## Contributors
+Thanks to all the [contributors](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/contributors) involved in the development of the project!
+
+<a href="https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KhamisiKibet/QT-PyQt-PySide-Custom-Widgets" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+# HAPPY CODING
