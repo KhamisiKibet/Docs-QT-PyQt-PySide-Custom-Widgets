@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  https://github.com/KhamisiKibet
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
@@ -37,6 +37,9 @@ color_scheme: "mpi"
 aux_links:
   "QT-PyQt-PySide-Custom-Widgets in Github":
     - "https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets"
+  
+  "YouTube":
+    - "https://youtube.com/spinntv"
 
 # Back to top link
 back_to_top: true
