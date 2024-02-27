@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../QT-PyQt-PySide-Custom-Widgets"
+		}
+	],
+	"settings": {}
+}
