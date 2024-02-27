@@ -30,9 +30,9 @@ github_username:  https://github.com/KhamisiKibet
 # Build settings
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-# plugins:
-#   - jekyll-feed
-color_scheme: "mpi"
+plugins:
+  - jekyll-feed
+# color_scheme: "mpi"
 
 aux_links:
   "QT-PyQt-PySide-Custom-Widgets in Github":
