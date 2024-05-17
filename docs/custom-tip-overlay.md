@@ -11,19 +11,26 @@ permalink: /docs/widgets/custom-tip-overlay
 
 ## QCustomTipOverlay
 
+![Custom Tool Tip Overlay GIF](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/raw/main/images/custom-tool-tip-overlay.gif)
+
 ### Overview
-The QCustomTipOverlay widget is designed to provide customizable tooltip overlays for PyQt/PySide applications. It offers a convenient way to display informative messages or notifications to users, with options for customization such as title, description, icon, image, and closability.
+The QCustomTipOverlay widget is designed to provide customizable tooltip overlays for PyQt/PySide applications. It offers a convenient way to display informative messages or notifications to users, with options for customization such as title, description, icon, image, closability, and a close icon.
 
 ### Features
 - **Customizable Appearance**: Users can customize the appearance of the tooltip overlay including title, description, icon, and image.
 - **Closable Option**: The tooltip overlay can be configured to be closable, allowing users to dismiss it manually.
+- **Close Icon**: Users can now provide a custom close icon for the tooltip overlay.
 - **Animation Types**: Supports various animation types for showing and hiding the tooltip overlay.
 - **Positioning**: Offers flexibility in positioning the tooltip overlay relative to a target widget or a specific point on the screen.
 - **Automatic Close**: Provides an option to automatically close the tooltip overlay after a specified duration.
 
 ## Usage
-### Installation
-To use the QCustomTipOverlay widget, ensure that you have PyQt or PySide installed.
+## Installation
+Install the QT-PyQt-PySide-Custom-Widgets package using pip:
+
+```cmd
+pip install QT-PyQt-PySide-Custom-Widgets
+```
 
 ### Importing
 ```python
@@ -45,14 +52,18 @@ tooltip = QCustomTipOverlay(
     duration=5000,
     tailPosition="bottom-center",
     showForm=myForm,
-    addWidget=myCustomWidget
+    addWidget=myCustomWidget,
+    closeIcon="close_icon.png" # Add a close icon
 )
 tooltip.show()
+
 ```
+
 ### Customization Options
 - **Title**: Set the title of the tooltip overlay.
 - **Description**: Provide a description text for the tooltip overlay.
 - **Icon**: Specify an icon to be displayed alongside the tooltip.
+-  **Close Icon**: Specify an icon to be displayed alongside the close button.
 - **Image**: Add an image to the tooltip overlay.
 - **Closable**: Enable or disable the close button on the tooltip overlay.
 - **Target**: Set the target widget to which the tooltip is associated.
@@ -66,6 +77,8 @@ tooltip.show()
 
 ### Tooltip Positioning
 The `QCustomTipOverlay` widget provides flexibility in positioning the tooltip overlay relative to a target widget or a specific point on the screen. Here's an explanation of all available positions:
+
+- **Automatic (auto)**: The tooltip position will be determined automatically by the program.
 
 - **Top-Left (top-left)**: This position places the tooltip overlay at the top-left corner of the target widget or screen point. The tooltip tail extends from the top-left corner of the tooltip, pointing downwards.
 
@@ -110,25 +123,28 @@ class MainWindow(QMainWindow):
         self.layout = QHBoxLayout(self.central_widget)
 
         # Create buttons to test different tail positions
+        self.create_button("Auto", "auto")
         self.create_button("Top-Left", "top-left")
         self.create_button("Top-Center", "top-center")
         self.create_button("Top-Right", "top-right")
         self.create_button("Bottom-Left", "bottom-left")
         self.create_button("Bottom-Center", "bottom-center")
         self.create_button("Bottom-Right", "bottom-right")
+        self.create_button("Auto", "auto")
         self.create_button("Left-Top", "left-top")
         self.create_button("Left-Bottom", "left-bottom")
         self.create_button("Right-Top", "right-top")
         self.create_button("Right-Bottom", "right-bottom")
-        self.create_button("Center-Left", "center-left")
-        self.create_button("Center-Right", "center-right")
+        self.create_button("Left-Center", "left-center")
+        self.create_button("Right-Center", "right-center")
+        self.create_button("Auto", "auto")
 
         self.setStyleSheet("""
             QMainWindow, * {
                 background-color: #f0f0f0;
             }
-            QCustomTipOverlay > QFrame {
-                border-radius: 10px;
+            QCustomTipOverlay *{
+                color: #000
             }
             QPushButton {
                 background-color: #4CAF50;
@@ -159,7 +175,7 @@ class MainWindow(QMainWindow):
             isClosable=True,
             tailPosition=tail_position,
             parent=self,
-            duration=3000
+            duration=-1
         )
 
         self.addShadow(tip)
@@ -169,7 +185,7 @@ class MainWindow(QMainWindow):
     def addShadow(self, widget):
         effect = QGraphicsDropShadowEffect(widget)
         effect.setColor(QColor(0, 0, 0, 180))
-        effect.setBlurRadius(35)
+        effect.setBlurRadius(10)
         effect.setXOffset(0)
         effect.setYOffset(0)
         widget.setGraphicsEffect(effect)
@@ -177,12 +193,13 @@ class MainWindow(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindow()
-    window.resize(800, 800)
+    window.resize(500, 300)
     window.show()
     sys.exit(app.exec())
+
 ```
 
 
 ## Dependencies
 - PyQt or PySide
-- Custom_Widgets package
+- QT-PyQt-PySide-Custom-Widgets (version `0.8.5 and above`)
