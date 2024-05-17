@@ -37,7 +37,7 @@ spinner.show()
 ### Customization Options
 - **Line Width**: Set the width of the spinner's lines.
 - **Line Color**: Specify the color of the spinner's lines. If not provided, the default highlight color is used.
--**Direction**: Choose the direction of rotation for the spinner, either clockwise or counterclockwise.
+- **Direction**: Choose the direction of rotation for the spinner, either clockwise or counterclockwise.
 - **Animation Type**: Select between smooth and bounce animations for the spinner.
 
 ### Example
