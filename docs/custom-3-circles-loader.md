@@ -1,9 +1,9 @@
 ---
 layout: default
 title: QCustom3CirclesLoader
-parent: loading-indicators
+parent: Loading Indicators/Progress Bars
 nav_order: 1
-permalink: /docs/widgets/custom-3-circles-loader
+permalink: /docs/widgets/loading-indicators/custom-3-circles-loader
 ---
 
 # QT-PyQt-PySide-Custom-Widgets - Customizing QCustom3CirclesLoader
