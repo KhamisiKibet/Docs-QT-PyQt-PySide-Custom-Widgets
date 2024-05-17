@@ -10,6 +10,8 @@ permalink: /docs/widgets/custom-embeded-window
 
 ## QCustomEmbededWindow
 
+![Custom Embeded Window GIF](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/raw/main/images/custom-embeded-window.gif)
+
 ### Overview
 The `QCustomEmbededWindow` widget provides a versatile embedded window functionality for PyQt/PySide applications. It allows developers to create customizable embedded windows with headers, content areas, and interactive controls.
 
