@@ -1,7 +1,7 @@
 ---
 layout: default
 title: QCustom3CirclesLoader
-parent: Loading Indicators/Progress Bars
+parent: loading-indicators
 nav_order: 1
 permalink: /docs/widgets/custom-3-circles-loader
 ---
