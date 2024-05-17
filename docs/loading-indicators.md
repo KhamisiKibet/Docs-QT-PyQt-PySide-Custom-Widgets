@@ -4,7 +4,6 @@ title: Loading Indicators/Progress Bars
 parent: Available Widgets
 nav_order: 14
 permalink: /docs/widgets/loading-indicators
-has_children: true
 ---
 
 # Loading Indicators/Progress Bars
