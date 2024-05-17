@@ -23,7 +23,7 @@ The `QCustom3CirclesLoader` widget is designed to create a custom loader with th
 
 ### Importing
 ```python
-from Custom_Widgets.QCustom3CirclesLoader import QCustom3CirclesLoader
+from Custom_Widgets.QCustomLoadingIndicators import QCustom3CirclesLoader
 ```
 ### Creating a Custom 3 Circles Loader
 ```python
