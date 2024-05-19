@@ -27,6 +27,8 @@ pip install --upgrade QT-PyQt-PySide-Custom-Widgets
 # Testing
 The examples folder in this repository contains a few code examples you can use to test and learn about the custom widgets.
 
+![QCustomArcLoader GIF](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/raw/main/images/custom-perlin-loader.gif)
+
 # How to use it.
 
 Please read the required [**project structure**](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/new-features#version-069) and other important updates [here](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/new-features) before proceeding.
@@ -34,16 +36,28 @@ Please read the required [**project structure**](https://khamisikibet.github.io/
 ## Documentation:
 
 - Available custom widgets:
-    - `AnalogGaugeWidget` - A digital analog widget using just a single `QWidget`. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-analog-gauge)
-    - `QCustomCheckBox` - Customize and animate `QCheckBox`. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qcheckbox)
-    - `QCustomProgressIndicator` - Create a beautiful modern progress indicator for multiple tasks. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-progress-bar)
-    - `QCustomQPushButton` - Customize and animate `QPushButton` with preset themes and use `iconify` to animate the icons. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qpushbutton)
-    - `QCustomQSlider` - Easily move the slider to the current clicked position of a `QSlider`. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qslider)
-    - `QCustomQStackedWidget` - Add beautiful transition animations and navigate through `QStackedWidget`. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qstacked-widgets)
-    - `QCustomSlideMenu` - Expand and collapse the size of your `QWidgets` i.e side menu, popup notifications, floating widgets etc. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-slide-menu-widgets)
-    - `QMainWindow` - Apply custom window title bar and navigation. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qmainwindow)
-    - `QCustomModals` - Provides custom modal dialogs for PySide/PyQt applications. It includes various types of modal dialogs such as `Information`, `Success`, `Warning`, `Error`, and `Custom modals`. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-modals)
-    - `QDraggableWidget` - Provides custom draggable widget functionality for PyQt/PySide applications. It includes two main classes: `QDragItem` and `QDragWidget`. [Read more](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/qdragable-widgets)
+    - [`AnalogGaugeWidget`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-analog-gauge)
+    - [`QCustomCheckBox`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qcheckbox)
+    - [`QCustomProgressIndicator`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-progress-bar)
+    - [`QCustomQPushButton`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qpushbutton)
+    - [`QCustomQSlider`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qslider)
+    - [`QCustomQStackedWidget`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qstacked-widgets)
+    - [`QCustomSlideMenu`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-slide-menu-widgets)
+    - [`QMainWindow`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qmainwindow)
+    - [`QCustomModals`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-modals)
+    - [`QDraggableWidget`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/qdragable-widgets)
+    - [`QCustomTipOverlay`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-tip-overlay)
+    - [`QCustomEmbededWindow`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-embeded-window)
+    - [`QCustomQToolTip`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qtooltip)
+    - [`QCustomQDialog`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qdialog)
+    - [`QCustom3CirclesLoader`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-3-circles-loader)
+    - [`QCustomArcLoader`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-arc-loader)
+    - [`QCustomPerlinLoader`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-perlin-loader)
+    - [`QCustomQProgressBar`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-qprogressbar)
+    - [`QCustomSpinner`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-spinner)
+    - [`QCustomEmojiPicker`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-emoji-picker)
+    - [`QCustomCodeEditor`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-code-editor)
+    - [`QCustomFlowLayout`](https://khamisikibet.github.io/Docs-QT-PyQt-PySide-Custom-Widgets/docs/widgets/custom-flow-layout)
 
 
 - Other extra functions:
