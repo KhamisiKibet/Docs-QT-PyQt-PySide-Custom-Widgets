@@ -49,7 +49,10 @@ Pass the name of the buttons belonging to the same group:
 	}]
 }
 ```
-
+Set the default active button:
+```json
+"ActiveButton": "pushButton",
+```
 Pass the style that will be applied to the active and the inactive buttons:
 
 ```json
@@ -61,6 +64,7 @@ Pass the style that will be applied to the active and the inactive buttons:
 			"pushButton_3",
 			"pushButton_4"
 		],
+		"ActiveButton": "pushButton",
 		"Style":[{
 			"Active": "background-color: #015371;",
 			"NotActive": "background-color: transparent;"
@@ -100,6 +104,27 @@ You can have as many button groups as you want:
 		},
 	]
 }
+```
+
+Set dynamic style using app theme variables:
+
+```json
+"QPushButtonGroup": [
+        {
+            "Buttons": [
+                "homeBtn",
+                "meetingsBtn",
+                "downloadsBtn"
+            ],
+            "ActiveButton": "homeBtn",
+            "Style":[
+                {
+                    "Active": "QPushButton{background-color: $COLOR_BACKGROUND_4;}",
+                    "NotActive": "QPushButton{background-color: transparent;}"
+                }
+            ]
+        }
+	],
 ```
 
 # More
