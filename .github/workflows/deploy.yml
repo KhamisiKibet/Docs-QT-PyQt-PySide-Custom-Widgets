@@ -49,7 +49,7 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
 
-  # Deployment job
+  # Deployment to GitHub Pages
   deploy:
     environment:
       name: github-pages
@@ -60,3 +60,24 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+   # Deployment to cPanel via FTP
+  deploy-cpanel:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Install lftp
+        run: sudo apt-get install -y lftp
+
+      - name: Deploy to cPanel via FTP
+        run: |
+          lftp -c "
+          set ftp:ssl-allow no;
+          open ftp://$FTP_USERNAME:$FTP_PASSWORD@$FTP_SERVER;
+          mirror -R _site /public_html/github/docs;
+          bye;
+          "
+        env:
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
